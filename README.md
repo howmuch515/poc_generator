@@ -1,2 +1,5 @@
 # poc_generator
-Burp Extention
+Burp Extention for PoC
+
+## Support list
+- CSRF
